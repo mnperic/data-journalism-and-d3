@@ -5,9 +5,6 @@
   <img src="https://github.com/mnperic/data-journalism-and-d3/blob/main/images/figure_1.png" alt="figure_1"/>
 </p>
 
-<i>Interactive Chart – </i> 
-
-
 To visualise the data, please select from the various headings of <b>Poverty, Age, Household Income, 
 Obesity, Smokers, and Without Healthcare.</b> Each selection shifts the State data represented in circles on  
 the graph. The small circles can then be selected or hovered over to view the specific values for that state.</p>
