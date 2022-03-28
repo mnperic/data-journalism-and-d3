@@ -10,10 +10,10 @@ Obesity, Smokers, and Without Healthcare.</b> Each selection shifts the State da
 the graph. The small circles can then be selected or hovered over to view the specific values for that state.</p>
 
 When selecting poverty and absence of healthcare one can find two extremes.  <b>Texas,</b> at the top of the graph, 
-has a poverty rate of <b>17.2%</b> with <b>24.9%</b> of the population living without healthcare, and <b>Massechusetts</b> 
+has a poverty rate of <b>17.2%</b> with <b>24.9%</b> of the population living without healthcare, and <b>Massachusetts</b> 
 having a poverty rate of <b>11.6%</b>, yet only a <b>4%</b> rate without healthcare. 
             
-For additional background, in <b>2006</b> a healthcare refrom was passed in <b>Massechusetts</b> with the aim to provide coverage to <b>100%</b> of it's residents. Conversely, it would be interesting to calculate the poverty level in Massechusetts <b>prior</b> to 2006 
+For additional background, in <b>2006</b> a healthcare refrom was passed in <b>Massachusetts</b> with the aim to provide coverage to <b>100%</b> of it's residents. Conversely, it would be interesting to calculate the poverty level in Massachusetts <b>prior</b> to 2006 
 to identify whether this coverage improved the state's rate of poverty.
             
 Additionally, even in 2019, <b>Texas,</b> with one of the highest participating rates in Healthcare.gov (over 1 million), 
