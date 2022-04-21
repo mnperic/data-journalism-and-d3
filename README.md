@@ -1,4 +1,4 @@
-# The D3 Times
+# USA Health / Poverty
 ## 2014 U.S. State Data demonstrates relationships between health markers and poverty levels
  
 <p align="center">
